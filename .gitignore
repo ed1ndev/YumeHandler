@@ -1,5 +1,5 @@
-./logs/error.logs
-./logs/full.logs
+/logs/error.logs
+/logs/full.logs
 node_modules
 config.json
 package-lock.json
