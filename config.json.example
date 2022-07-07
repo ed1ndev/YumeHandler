@@ -3,5 +3,6 @@
   "ownerId": [ "937292067162439680" ],
   "prefix": "!",
   "invite_link": "none",
-  "globalSlashCommands": true
+  "globalSlashCommands": true,
+  "mainGuildId": ""
 }

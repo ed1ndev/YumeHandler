@@ -5,7 +5,7 @@ module.exports = async (client) => {
     await client.application.commands.set(client.arrayOfSlashCommands);
   } else {
     await client.guilds.cache
-      .get("988734114461003786")
+      .get(client.config.mainGuildId)
       .commands.set(arrayOfSlashCommands);
   } 
 
