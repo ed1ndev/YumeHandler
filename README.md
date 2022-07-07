@@ -33,6 +33,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 ```
 
 invite_link -> You can leave it at **none** if you don't want to have an invite link in the help command
+<br>
 globalSlashCommands -> You can leave it to **true** if you want your slash commands to be **global**, otherwise set it to **false** and change the mainGuildId to the id of the server where you want the slash commands to be located
 
 ## 🤝 Contributing
