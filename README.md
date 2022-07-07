@@ -38,8 +38,8 @@ globalSlashCommands -> You can leave it to **true** if you want your slash comma
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/ed1ndev/Cryptero/fork)
-2. Clone your fork: `git clone https://github.com/your-username/Cryptero.git`
+1. [Fork the repository](https://github.com/ed1ndev/YumeHandler/fork)
+2. Clone your fork: `git clone https://github.com/your-username/YumeHandler.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
